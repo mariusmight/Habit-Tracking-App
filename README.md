@@ -1,7 +1,5 @@
 # Habit Tracking App
 
-# Conception Phase
-
 In order to creat the habit tracking app I needed to store the name, periodicity and the history of each habit
 where the history would be a list of the dates when the habit was checked off and would be used to calculate the
 streaks.
